@@ -27,12 +27,12 @@ To use this Team Profile Generator, clone the repository onto your own machine. 
 * jest
 
 ## Screenshot
-![image](https://github.com/hmailahn/team-portfolio-generator/blob/main/dist/assets/screenshot.png)
+![image](./dist/assets/screenshot.png)
 
 ## Repository
-https://github.com/hmailahn/team-portfolio-generator
+https://github.com/BrennonSullivan/m10team-portfolio-generator
 ## Demo
-[Demo](https://drive.google.com/file/d/1euS_tevhrRssw5Rgad_Llao6kmXK3KwJ/view)
+[Demo](https://drive.google.com/file/d/1_4bogIxD-NSnXmsySI0jzxo3WDKlTb-t/view)
 
 ## Contact-Me
 
@@ -40,5 +40,5 @@ Questions?
 
 <details>
     <summary>Contact</summary>
-    mailahnheidi@gmail.com <br>
+    brennsullivan2@gmail.com <br>
 </details>
